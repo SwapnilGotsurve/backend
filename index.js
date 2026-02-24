@@ -6,7 +6,7 @@ const port = 3000
 
 const githubData ={
   "username": "swapnil",
-  "fullName": "Swapnil Patil",
+  "fullName": "Swapnil Gotsurve",
   "bio": "Full-stack developer | Open-source enthusiast | Learning daily",
   "location": "Pune, India",
   "profileImage": "https://example.com/profile.jpg",
